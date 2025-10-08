@@ -1,11 +1,11 @@
 public class persona{
-    // 1 definir atributos
+    
     protected String nombre;
     protected String apellido;
     protected float peso;
     protected float altura;
 
-    //2. metodos constructores
+    
     public persona(String nombre, String apellido, float peso, float altura) {
         this.nombre = nombre;
         this.apellido = apellido;
